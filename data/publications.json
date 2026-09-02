@@ -1,0 +1,1071 @@
+[
+ {
+  "id": "journal-1",
+  "section": "journal",
+  "citation_html": "Al-Saeedi, K., Fish, A., Zhou, D., <strong>Tsakiri, K.,</strong> &amp; Marsellos, A. 2026. Multi-Scale Decomposition and Autocorrelation Modeling for Classical and Machine Learning-Based Time Series Forecasting. Mathematics, 14(2), 283.",
+  "year": 2026,
+  "links": {
+   "paper": "https://www.mdpi.com/2227-7390/14/2/283"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "education"
+  ]
+ },
+ {
+  "id": "journal-2",
+  "section": "journal",
+  "citation_html": "Al-Saeedi, K., Zhou, D., Fish, A., <strong>Tsakiri, K.,</strong> &amp; Marsellos, A. 2025. A methodological comparison of forecasting models using KZ decomposition and walk-forward validation. Mathematics, Applied Mathematics section, 13(21), 3410.",
+  "year": 2025,
+  "links": {
+   "paper": "https://www.mdpi.com/2227-7390/13/21/3410"
+  },
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "journal-3",
+  "section": "journal",
+  "citation_html": "Marsellos, A.E., Hantzis, K.D., <strong>Tsakiri, K.G.,</strong> 2020. How to Remove the Seasonal Atmospheric Effect: An Application on Surface Volcanic Temperature at Nisyros Active Volcano, Hellenic Volcanic Arc. Journal of Volcanology and Geothermal Research, 407.",
+  "year": 2020,
+  "links": {
+   "doi": "https://doi.org/10.1016/j.jvolgeores.2020.107069"
+  },
+  "students": null,
+  "areas": [
+   "atmospheric",
+   "volcano"
+  ]
+ },
+ {
+  "id": "journal-4",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kapetanakis, S., 2018. Artificial Neural Network and Multiple Linear Regression for Flood Prediction in Mohawk River, New York. Water, 10(9), 1158.",
+  "year": 2018,
+  "links": {
+   "doi": "https://doi.org/10.3390/w10091158"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "journal-5",
+  "section": "journal",
+  "citation_html": "Plitnick, T.A., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2018. Time Series Regression for Forecasting Flood Events in Schenectady, New York. Geosciences, 8(9).",
+  "year": 2018,
+  "links": {
+   "doi": "https://doi.org/10.3390/geosciences8090317"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "journal-6",
+  "section": "journal",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kapetanakis, S., Kyriakopoulos, K., 2018. A Hybrid Model Using Time Series and Markov Chain for the Detection of the Main Periodicities in Temperature Data from Nisyros Volcano, South Aegean. Geoinformatics &amp; Geostatistics: An Overview, 6(1).",
+  "year": 2018,
+  "links": {
+   "doi": "https://doi.org/10.4172/2327-4581.1000177"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "volcano",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "journal-7",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Zurbenko, I.G., 2014. An Efficient Prediction Model for Water Discharge in Schoharie Creek, NY. Journal of Climatology, Article ID 284137.",
+  "year": 2014,
+  "links": {
+   "doi": "https://doi.org/10.1155/2014/284137"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "journal-8",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2013. Explanation of Fluctuations in Water Use Time Series. Journal of Environmental and Ecological Statistics, 20(3), 399–412.",
+  "year": 2013,
+  "links": {
+   "doi": "https://doi.org/10.1007/s10651-012-0225-0"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "journal-9",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2011. Effect of Noise in Principal Component Analysis. Journal of Statistics and Mathematics, 2(2), 40–48.",
+  "year": 2011,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "journal-10",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Prediction of Ozone Concentrations Using Atmospheric Variables. Journal of Air Quality, Atmosphere &amp; Health.",
+  "year": 2010,
+  "links": {
+   "doi": "https://doi.org/10.1007/s11869-010-0084-5"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "journal-11",
+  "section": "journal",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Determining the Main Atmospheric Factor on Ozone Concentrations. Meteorology and Atmospheric Physics, 109, 129–137.",
+  "year": 2010,
+  "links": {
+   "doi": "https://doi.org/10.1007/s00703-010-0092-x"
+  },
+  "students": null,
+  "areas": [
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-1",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., Duan, L., <strong>Tsakiri, K.G.,</strong> Kapetanakis, S., 2025. A Novel Interdisciplinary Teaching Model for AI-Driven Research in Geoscience and Business. International Conference on Education and New Learning Technologies, Mathematics Education Researchers (MER) Community, Palma, Spain, June 2025.",
+  "year": 2025,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "education"
+  ]
+ },
+ {
+  "id": "proceedings-2",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kapetanakis, S., 2024. Sustainable Tourism Through Enhanced Volcanic Signal Detection in Santorini. Peer-reviewed proceedings, 10th International Conference on Time Series and Forecasting (ITISE 2024), Gran Canaria, Spain.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "proceedings-3",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., 2024. Signal Detection in High-Noise Time Series Data Using R. Peer-reviewed proceedings, 10th International Conference on Time Series and Forecasting (ITISE 2024), Gran Canaria, Spain.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "software"
+  ]
+ },
+ {
+  "id": "proceedings-4",
+  "section": "proceedings",
+  "citation_html": "Gonzalez, X., Hubbs, D., Dailey, S., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2024. Exploring Climate Change Effects on Sinkhole Formation: Long-Term Temperature Analysis in Long Island, NY (1948–2024). 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p. 1–6.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-5",
+  "section": "proceedings",
+  "citation_html": "Badger, T., Parag, A., Pelletier, A., DeRocchis, S., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2024. Investigating Groundwater and Landslide Relationships Using R: A Study on Long Island's North Shore. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p. 1–11.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water",
+   "software"
+  ]
+ },
+ {
+  "id": "proceedings-6",
+  "section": "proceedings",
+  "citation_html": "Hope, J., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2024. High-Frequency Groundwater Level Fluctuations, Underground Erosion, and Potential Sinkhole Occurrences Across Long Island, NY. 31st Conference on the Geology of Long Island and Metropolitan New York, April 2024, p. 1–8.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-7",
+  "section": "proceedings",
+  "citation_html": "Hope, J., Hubbs, D., Tsiouris, E., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2023. 2019–2023 Volcanic Temperature Monitoring Using Ground Thermometers and Drone Thermal Scanning: An Application on Hellenic Volcanoes. Hofstra University Students Conference, October 2023.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "volcano",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-8",
+  "section": "proceedings",
+  "citation_html": "Hope, J., Varnum, G., Morrison-John, M., VanDerVegt, M., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2023. Investigating the Impact of COVID-19 on Groundwater Supply: A Study of Manufacturing Sites and Socioeconomic Factors. 30th Conference on the Geology of Long Island and Metropolitan New York, April 2023.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-9",
+  "section": "proceedings",
+  "citation_html": "Hart, W.J., Gogos, K., Gallagher, C., Kaplan, A., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2023. Assessing the Impact of COVID-19 on Long Island’s Groundwater System: A Five-Year (2018–2023) Analysis of Monitoring Stations in Nassau and Suffolk Counties. 30th Conference on the Geology of Long Island and Metropolitan New York, April 2023.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-10",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Tentomas, G., 2022. A Geospatial Analysis of the Sunspot Effect on Groundwater Levels in Long Island, NY (2002–2021). 29th Conference on the Geology of Long Island and Metropolitan New York, April 2022.",
+  "year": 2022,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water",
+   "atmospheric",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-11",
+  "section": "proceedings",
+  "citation_html": "Moore, M., Brown, R., Thomas, M., Santella, K., Ballato, B., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2021. What Can the Local GPS Network Tell Us About the Glacial Isostatic Adjustment of Long Island, NY. 28th Conference on the Geology of Long Island and Metropolitan New York, April 2021.",
+  "year": 2021,
+  "links": {},
+  "students": null,
+  "areas": [
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-12",
+  "section": "proceedings",
+  "citation_html": "Buchbinder, B., Phan, E., Renner, F., Liebowitz, A., Achek, M., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2021. Studying the COVID-19 Stay-at-Home Effect on Water Consumption in Long Island, NY Using Time Series Analysis of Groundwater Levels. 28th Conference on the Geology of Long Island and Metropolitan New York, April 2021.",
+  "year": 2021,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-13",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kapetanakis, S., 2019. Artificial Neural Networks Application in Time Series Water Discharge for the Prediction of Flooding in Mohawk River, New York. Geological Society of America SE Meeting, Abstracts Proceedings 16-08, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "doi": "https://doi.org/10.1130/abs/2019SE-327791"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-14",
+  "section": "proceedings",
+  "citation_html": "Plitnick, T., Lagatolla, R., <strong>Tsakiri, K.G.,</strong> Petrocheilos, C., Marsellos, A.E., 2019. Time Series Regression and Spectral Analysis on Nitrate Concentrations in Long Island, NY. 26th Conference on the Geology of Long Island and Metropolitan New York, April 2019, p. 1–7.",
+  "year": 2019,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "proceedings-15",
+  "section": "proceedings",
+  "citation_html": "Tran, J., Lopez Rodriguez, P., Smith, T., <strong>Tsakiri, K.G.,</strong> Petrocheilos, C., Marsellos, A.E., 2019. Spectral Analysis of Groundwater Levels in Suburban Versus Urban Regions: An Example from Suffolk and Queens Counties, Long Island, NY. 26th Conference on the Geology of Long Island and Metropolitan New York, April 2019, p. 1–4.",
+  "year": 2019,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-16",
+  "section": "proceedings",
+  "citation_html": "Rienzo, A., Roscoe, S.L., Mahoney, L., Weinstein, P., <strong>Tsakiri, K.G.,</strong> Petrocheilos, C., Marsellos, A.E., 2019. Time Series Analysis Comparing Climatic Averages and Aquifer Water Levels in Albany and Queens, NY. 26th Conference on the Geology of Long Island and Metropolitan New York, April 2019, p. 1–8.",
+  "year": 2019,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-17",
+  "section": "proceedings",
+  "citation_html": "Hatzis, K., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2019. Time Series Analysis of Volcanic Temperature Monitoring: An Example from the Nisyros Active Volcano at the Hellenic Volcanic Arc. Geological Society of America SE Meeting, Abstracts Proceedings 16-04, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "doi": "https://doi.org/10.1130/abs/2019SE-327728"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "proceedings-18",
+  "section": "proceedings",
+  "citation_html": "Plitnick, A.T., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2019. Forecasting Water Discharge Using Time Series Decomposition of Hydrogeological and Atmospheric Variables to Identify High-Risk Flooding Periods in Schenectady, NY. Geological Society of America SE Meeting, Abstracts Proceedings 16-02, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "doi": "https://doi.org/10.1130/abs/2019SE-327676"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-19",
+  "section": "proceedings",
+  "citation_html": "Tran, J., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2019. Enhanced Forecasting of Flood Events by Integrating ARIMA in Time Series Decomposition: An Application at the Delaware River, Trenton, NJ. Geological Society of America SE Meeting, Abstracts Proceedings 16-03, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "doi": "https://doi.org/10.1130/abs/2019SE-327703"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-20",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kapetanakis, S., 2018. Artificial Neural Networks and Time Series Decomposition for Flood Prediction in the Mohawk Watershed, New York. American Statistical Association Symposium on Data Science and Statistics, May 2018, Reston, VA.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-21",
+  "section": "proceedings",
+  "citation_html": "Gogos, I., Shire, K., Lakeram, S., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2018. Forecasting Water Discharge Using Atmospheric and Hydrologic Sensors to Identify Long-Term High-Risk Periods in Herkimer County, NY. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:29–32.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-22",
+  "section": "proceedings",
+  "citation_html": "Lakeram, S., Plitnick, T., Chernoff, D., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2018. Flood Forecasting of Water Discharge at Freeman’s Bridge in Schenectady, NY. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:35–37.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-23",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kapetanakis, S., Jones, M., Kyriakopoulos, K., 2017. Temperature Monitoring of a Volcanic Vent Gas Emission Using Time Series Analysis and Markov Chain Approach: An Example from Nisyros Volcano, South Aegean. Geological Society of America Annual Meeting, Abstracts Proceedings 392-24, Seattle, WA.",
+  "year": 2017,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "proceedings-24",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kavalieros, A., 2016. Data Mining for Immediate Decision-Making in Flood Hazard Events: An Application at Mohawk Watershed, NY. Proceedings of the Mohawk Watershed Symposium, March 2016, p. 32–33, ISBN: 978-1-939968-07-4.",
+  "year": 2016,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-25",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2016. Prediction of Flooding in Mohawk River, NY with GIS and Time Series Analysis. International Conference on Natural Hazards and Infrastructure (ICONHIC), June 2016, ID 95.",
+  "year": 2016,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-26",
+  "section": "proceedings",
+  "citation_html": "Mahmood, K., <strong>Tsakiri, K.G.,</strong> Fish, A., Zhou, D., Marsellos, A.E., 2016. Comparison of Two Multivariate Time Series Analysis Methods for Predicting Water Discharge in the Hudson River, NY. CELT-MSOR Conference, Loughborough University, UK, September 2016.",
+  "year": 2016,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-27",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> 2015. A Time Series Model for the Prediction of Flooding. Joint Mathematics Meeting, January 2015, San Antonio, TX.",
+  "year": 2015,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-28",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2015. Flooding Prediction in a Large Watershed: An Example from the Mohawk River, NY. Proceedings of the Mohawk Watershed Symposium, March 2015, ISBN: 978-1-939968-05-0, p. 35–38.",
+  "year": 2015,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-29",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2014. An Approach to Flood Prediction Using GIS and Time Series Decomposition: An Example from the Mohawk River, NY. 1st International Geomapplica Conference, Proceedings, 2014, p. 7.",
+  "year": 2014,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-30",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Zurbenko, I.G., 2013. Explanation of Water Monitoring Time Series Data in Schoharie Creek, NY. Proceedings of the Mohawk Symposium, Schenectady, NY, p. 74–75.",
+  "year": 2013,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-31",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2011. Separating and Explaining Different Scales in Water Use Time Series. International Biometric Conference, March 2011, Miami, FL.",
+  "year": 2011,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-32",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Effect of Noise in Canonical Correlation Analysis with Application to Ozone Pollution. Joint Mathematics Meetings, January 2010, San Francisco, CA.",
+  "year": 2010,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-33",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Effect of Noise in Canonical Correlation Analysis. American Statistical Association Roundtable, January 2010, Albany, NY.",
+  "year": 2010,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "proceedings-34",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A.E., Garver, J.I., Cockburn, J.M.H., <strong>Tsakiri, K.G.,</strong> 2010. Determination of Historical Channel Changes and Meander Cutoff Points Using LiDAR and GIS in Schoharie Creek, NY. Proceedings of the Mohawk Symposium, Schenectady, NY, pp. 28–33.",
+  "year": 2010,
+  "links": {},
+  "students": null,
+  "areas": [
+   "water",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-35",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2009. Model Prediction of Ambient Ozone Concentrations. JSM Proceedings, Statistical Computing Section, pp. 3054–3068, Alexandria, VA: American Statistical Association.",
+  "year": 2009,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-36",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2009. Model Prediction of Ambient Ozone Concentrations. Joint Statistical Meetings, July 2009, Washington, DC.",
+  "year": 2009,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-37",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2008. Destructive Effect of Noise in Principal Component Analysis with Application to Ozone Pollution. JSM Proceedings, Statistical Computing Section, pp. 569–576, Alexandria, VA: American Statistical Association.",
+  "year": 2008,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "proceedings-38",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2008. Destructive Effect of Noise in Principal Component Analysis. Joint Statistical Meetings, August 2008, Denver, CO.",
+  "year": 2008,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "proceedings-39",
+  "section": "proceedings",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2006. Determination of the Main Atmospheric Factor for the Explanation of Ozone Concentrations. 23rd International Biometric Conference, July 2006, Montreal, Canada.",
+  "year": 2006,
+  "links": {},
+  "students": null,
+  "areas": [
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-1",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., 2025. Refined Observations on Enhanced Sinusoidal Signal Detection in Extremely Noisy Time Series Using R. Vienna Congress on Mathematical Finance, July 2025, Vienna, Austria.",
+  "year": 2025,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "software"
+  ]
+ },
+ {
+  "id": "presentation-2",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2025. A New R Package “sima” for Enhanced Signal Detection in High-Noise Time Series. Vienna Congress on Mathematical Finance, July 2025, Vienna, Austria.",
+  "year": 2025,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "software"
+  ]
+ },
+ {
+  "id": "presentation-3",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kyriakopoulos, K., 2023. Time Series Analysis of Volcanic Activity on an Active European Volcanic Island: Enhancing Sustainable Tourism and Business Resilience. ICEG2023-418, International Congress on Environmental Geotechnics, Crete, Greece, 25–28 June.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-4",
+  "section": "presentation",
+  "citation_html": "Hope, J., Van der Vegt, M., Varnum, G., Morrison-John, M., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2023. An Application of GIS and Time Series Analysis to Investigate the Impacts of COVID-19 on Groundwater Trend Fluctuations Caused by Manufacturing Sites and Residential Living on Long Island, NY. Long Island Natural History Conference, May 2023, Suffolk County Environmental Center, Islip, NY.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "presentation-5",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., Bourgeois, J., Mead, N., Achek, M., Tentomas, G., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2023. Detection of Volcanic Surface Temperature Anomalies Using Drone Thermal Scanning: An Application on Hellenic Volcanoes. Hofstra University Student Conference, October 2022.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "volcano",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "presentation-6",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., Bourgeois, J., Mead, N., Achek, M., Tentomas, G., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2023. Detection of Volcanic Surface Temperature Anomalies Using Drone Thermal Scanning: An Application on the Hellenic Volcano of Nisyros. ICEG2023-419, International Congress on Environmental Geotechnics, Crete, Greece, 25–28 June.",
+  "year": 2023,
+  "links": {},
+  "students": null,
+  "areas": [
+   "volcano",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "presentation-7",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Hantzis, K.D., Kyriakopoulos, K., 2022. An Advanced Volcanic Hazard Evaluation by Understanding the Atmospheric Effect on Surface Temperature: An Application at the Santorini Volcano Monitoring Station, South Aegean Active Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 2021, Crete, Greece.",
+  "year": 2022,
+  "links": {},
+  "students": null,
+  "areas": [
+   "atmospheric",
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-8",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., Hantzis, K.D., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2022. A Volcanic Hazard Evaluation Challenge in a Low-Temperature Hydrothermal System: An Application to Sousaki Volcanic Monitoring Station, Korinthos, Hellenic Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 2021, Crete, Greece.",
+  "year": 2022,
+  "links": {},
+  "students": null,
+  "areas": [
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-9",
+  "section": "presentation",
+  "citation_html": "Hantzis, K.D., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2022. How to Remove the Seasonal Atmospheric Effect: An Application on a Surface Temperature at Nisyros Volcanic Monitoring Station, Hellenic Volcanic Arc. 11th International Conference Cities on Volcanoes, Abstract Proceedings, Section S.08, June 2021, Crete, Greece.",
+  "year": 2022,
+  "links": {},
+  "students": null,
+  "areas": [
+   "atmospheric",
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-10",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2021. Long-Term Solar Impact on Groundwater in Long Island, New York. International Symposium on Forecasting, 27–30 June, virtual.",
+  "year": 2021,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-11",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., 2021. Time Series Analysis of Continuous GPS Measurements Prior to a Volcanic Eruption: An Example of the Whakaari Volcano in New Zealand. Joint Statistical Meetings (JSM), 7–12 August 2021, Seattle, WA (virtual).",
+  "year": 2021,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "volcano",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "presentation-12",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kapetanakis, S., 2019. Artificial Neural Networks Application in Time Series Water Discharge for the Prediction of Flooding in Mohawk River, New York. Geological Society of America SE Meeting, Abstracts Proceedings 16-08, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "link": "https://gsa.confex.com/gsa/2019SE/webprogram/Paper327791.html"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-13",
+  "section": "presentation",
+  "citation_html": "Hatzis, K., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kyriakopoulos, K., 2019. Time Series Analysis of Volcanic Temperature Monitoring: An Example from the Nisyros Active Volcano at the Hellenic Volcanic Arc. Geological Society of America SE Meeting, Abstracts Proceedings 16-04, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "link": "https://gsa.confex.com/gsa/2019SE/webprogram/Paper327728.html"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-14",
+  "section": "presentation",
+  "citation_html": "Plitnick, A.T., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2019. Forecasting Water Discharge Using Time Series Decomposition of Hydrogeological and Atmospheric Variables to Identify High-Risk Flooding Periods in Schenectady, NY. Geological Society of America SE Meeting, Abstracts Proceedings 16-02, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "link": "https://gsa.confex.com/gsa/2019SE/webprogram/Paper327676.html"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-15",
+  "section": "presentation",
+  "citation_html": "Tran, J., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2019. Enhanced Forecasting of Flood Events by Integrating ARIMA in Time Series Decomposition: An Application at the Delaware River, Trenton, NJ. Geological Society of America SE Meeting, Abstracts Proceedings 16-03, Vol. 51(3), Charleston, SC.",
+  "year": 2019,
+  "links": {
+   "link": "https://gsa.confex.com/gsa/2019SE/webprogram/Paper327703.html"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-16",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., Kapetanakis, S., 2018. Artificial Neural Networks and Time Series Decomposition for Flood Prediction in the Mohawk Watershed, New York. American Statistical Association Symposium on Data Science and Statistics, May 2018, Reston, VA.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-17",
+  "section": "presentation",
+  "citation_html": "Gogos, I., Shire, K., Lakeram, S., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2018. Forecasting Water Discharge Using Atmospheric and Hydrologic Sensors to Identify Long-Term High-Risk Periods in Herkimer County, NY. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:29–32.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-18",
+  "section": "presentation",
+  "citation_html": "Lakeram, S., Plitnick, T., Chernoff, D., Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> 2018. Flood Forecasting of Water Discharge at Freeman’s Bridge in Schenectady, NY. Proceedings of the 2018 Mohawk Watershed Symposium, Schenectady, NY, ISBN: 978-1-939968-17-3, v.10:35–37.",
+  "year": 2018,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-19",
+  "section": "presentation",
+  "citation_html": "Marsellos, A.E., <strong>Tsakiri, K.G.,</strong> Kapetanakis, S., Jones, M., Kyriakopoulos, K., 2017. Temperature Monitoring of a Volcanic Vent Gas Emission Using Time Series Analysis and Markov Chain Approach: An Example in Nisyros Volcano, South Aegean. Geological Society of America Annual Meeting, Abstracts Proceedings 392-24, Seattle, WA.",
+  "year": 2017,
+  "links": {},
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "time-series",
+   "volcano"
+  ]
+ },
+ {
+  "id": "presentation-20",
+  "section": "presentation",
+  "citation_html": "Mahmood, K., <strong>Tsakiri, K.G.,</strong> Fish, A., Zhou, D., Marsellos, A.E., 2016. Comparison of Two Multivariate Time Series Analysis Methods for Predicting Water Discharge in the Hudson River, NY. CELT-MSOR Conference, September 2016, Loughborough University, UK.",
+  "year": 2016,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-21",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> 2015. A Time Series Model for the Prediction of Flooding. Joint Mathematics Meetings, January 2015, San Antonio, TX.",
+  "year": 2015,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-22",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Marsellos, A.E., 2014. Prediction Model for Water Discharge Time Series in the Mohawk Watershed, NY. Mohawk Symposium, March 2014, Schenectady, NY.",
+  "year": 2014,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-23",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2011. Separating and Explaining Different Scales in Water Use Time Series. International Biometric Conference, March 2011, Miami, FL.",
+  "year": 2011,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-24",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Effect of Noise in Canonical Correlation Analysis with Application to Ozone Pollution. Joint Mathematics Meetings, January 2010, San Francisco, CA.",
+  "year": 2010,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-25",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2010. Effect of Noise in Canonical Correlation Analysis. American Statistical Association Roundtable, January 2010, Albany, NY.",
+  "year": 2010,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "presentation-26",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2009. Model Prediction of Ambient Ozone Concentrations. Joint Statistical Meetings, July 2009, Washington, DC.",
+  "year": 2009,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "presentation-27",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2008. Destructive Effect of Noise in Principal Component Analysis. Joint Statistical Meetings, August 2008, Denver, CO.",
+  "year": 2008,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series"
+  ]
+ },
+ {
+  "id": "presentation-28",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K.G.,</strong> Zurbenko, I.G., 2006. Determination of the Main Atmospheric Factor for the Explanation of Ozone Concentrations. 23rd International Biometric Conference, July 2006, Montreal, Canada.",
+  "year": 2006,
+  "links": {},
+  "students": null,
+  "areas": [
+   "atmospheric"
+  ]
+ },
+ {
+  "id": "book-1",
+  "section": "book",
+  "citation_html": "Marsellos, A. E., &amp; <strong>Tsakiri, K. G.,</strong> 2026. R for Earth and Sustainability Data Analytics: A Practical Introduction to GIS, Time Series, Modeling, and Environmental Applications (1st ed.). Earth Data Analytics Press. ISBN 979-8-9965635-0-0 (print), ISBN 979-8-9965635-1-7 (eBook).",
+  "year": 2026,
+  "links": {
+   "book website": "https://marsellos.github.io/rgeo/",
+   "amazon": "https://www.amazon.com/dp/B0H6J1YSK5"
+  },
+  "students": null,
+  "areas": [
+   "time-series",
+   "geospatial"
+  ]
+ },
+ {
+  "id": "proceedings-40",
+  "section": "proceedings",
+  "citation_html": "Marsellos, A. E., &amp; <strong>Tsakiri, K. G.,</strong> 2026. Reciprocal AI-enabled community-engaged learning in environmental data analytics. EDULEARN26 Proceedings, 18th International Conference on Education and New Learning Technologies, IATED, Palma de Mallorca, Spain, Paper 1926. ISBN 978-84-09-88444-5.",
+  "year": 2026,
+  "links": {
+   "doi": "https://doi.org/10.21125/edulearn.2026.1926"
+  },
+  "students": null,
+  "areas": [
+   "ai-ml",
+   "education"
+  ]
+ },
+ {
+  "id": "proceedings-41",
+  "section": "proceedings",
+  "citation_html": "Parag, A. S., Jones, W., Bradley, C., Cann, I., Marsellos, A. E., <strong>Tsakiri, K. G.,</strong> 2025. Wavelet Analysis of Groundwater Level Fluctuations in Long Island and the Metropolitan Area, NY. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
+  "year": 2025,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "proceedings-42",
+  "section": "proceedings",
+  "citation_html": "Parag, A., Marsellos, A. E., <strong>Tsakiri, K. G.,</strong> 2025. Geostatistical Analysis of Long-Term Subsidence Effects on Isostasy of Long Island Using Continuous GPS Displacement Rates Using R. 32nd Conference on the Geology of Long Island and Metropolitan New York, April 2025.",
+  "year": 2025,
+  "links": {},
+  "students": null,
+  "areas": [
+   "geospatial",
+   "software"
+  ]
+ },
+ {
+  "id": "presentation-29",
+  "section": "presentation",
+  "citation_html": "Mighty, M., Neville, J., Bernhardt, L., <strong>Tsakiri, K. G.,</strong> &amp; Marsellos, A. E., 2026. From Seasonal Stability to Event-Driven Dynamics: A Spectral Analysis of Groundwater Response to Winter Conditions near JFK Airport, New York. Undergraduate Research Day Conference, Hofstra University, Hempstead, NY, May 2026.",
+  "year": 2026,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water"
+  ]
+ },
+ {
+  "id": "presentation-30",
+  "section": "presentation",
+  "citation_html": "<strong>Tsakiri, K. G.,</strong> Marsellos, A. E., 2024. Noise Removal and Frequency Detection of Groundwater Levels Using R: An Approach to Identify Underground Erosion. International Conference on Natural Science and Environment, Rome, Italy, June 2024.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "time-series",
+   "water",
+   "software"
+  ]
+ },
+ {
+  "id": "presentation-31",
+  "section": "presentation",
+  "citation_html": "Marsellos, A. E., <strong>Tsakiri, K. G.,</strong> Renner, F., Ptak, N., 2024. Drone-Assisted Thermal Mapping of Fumaroles for Sustainable Farming on Active Volcanoes. International Conference on Natural Science and Environment, Rome, Italy, June 2024.",
+  "year": 2024,
+  "links": {},
+  "students": null,
+  "areas": [
+   "volcano",
+   "geospatial"
+  ]
+ }
+]
