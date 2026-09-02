@@ -96,6 +96,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research Areas</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./index.html#book"> 
+<span class="menu-text">Book</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
@@ -106,6 +110,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html#contact"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -144,9 +152,9 @@ ul.task-list li input[type="checkbox"] {
     </p>
     <p>
       Associate Professor of Management Science and Chair, Department of
-      Information Systems, Analytics &amp; Supply Chain Management, Norm Brodsky
-      College of Business, <strong>Rider University</strong> · Founding Director,
-      Risk Management and Insurance Certificate Program.
+      Information &amp; Operations, Norm Brodsky College of Business,
+      <strong>Rider University</strong> · Founding Director, Risk Management
+      and Insurance Certificate Program.
     </p>
     <p>
       <a class="btn btn-primary me-2" id="browse-pubs-btn" href="publications.html">Browse publications</a>
@@ -161,8 +169,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 <div class="grid mb-4" style="gap:1rem">
-  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=journal" title="Browse journal articles"><div class="stat-tile"><div class="stat-number" id="stat-journal">11</div><div class="stat-label">Peer-reviewed journal articles</div></div></a></div>
-  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=conference" title="Browse conference papers and presentations"><div class="stat-tile"><div class="stat-number" id="stat-conference">73</div><div class="stat-label">Conference papers &amp; presentations</div></div></a></div>
+  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=journal" title="Browse journal articles"><div class="stat-tile"><div class="stat-number" id="stat-journal">11</div><div class="stat-label">Peer-reviewed journal articles she co-authored</div></div></a></div>
+  <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=conference" title="Browse conference papers and presentations"><div class="stat-tile"><div class="stat-number" id="stat-conference">56</div><div class="stat-label">Conference papers &amp; presentations, 2006 to 2026</div></div></a></div>
   <div class="g-col-6 g-col-md-3"><a class="stat-link" href="publications.html?type=book" title="See the book"><div class="stat-tile"><div class="stat-number">1</div><div class="stat-label">Book (2026)</div></div></a></div>
   <div class="g-col-6 g-col-md-3"><a class="stat-link" href="research.html" title="Explore research areas"><div class="stat-tile"><div class="stat-number">8</div><div class="stat-label">Research areas</div></div></a></div>
 </div>
@@ -185,7 +193,8 @@ ul.task-list li input[type="checkbox"] {
   <p>Designed, launched, and grew the Risk Management and Insurance
   Certificate Program, chairing its industry advisory council and connecting
   students with practitioners through events, internships, and workshops.</p>
-  <a class="btn btn-outline-primary btn-sm" href="leadership.html#program-and-certificate-leadership">About the program →</a>
+  <a class="btn btn-outline-primary btn-sm me-2" href="leadership.html#program-and-certificate-leadership">Her role →</a>
+  <a class="btn btn-outline-primary btn-sm" href="https://www.rider.edu/academics/colleges-schools/norm-brodsky-college-business/certificates/risk-management-insurance" target="_blank" rel="noopener">The program at Rider →</a>
 </div>
 </div>
 </div>
@@ -235,6 +244,8 @@ loadPubs().then(pubs => {
     pubs.filter(p => p.section === "proceedings" || p.section === "presentation").length);
   const btn = document.getElementById("browse-pubs-btn");
   if (btn) btn.textContent = `Browse all ${pubs.length} publications`;
+  // A work published as a proceedings paper AND delivered as a talk is ONE
+  // record here, not two: the database is deduplicated at build time.
 });
 </script>
 
