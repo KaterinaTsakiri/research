@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://katerinatsakiri.github.io/research/index.html</loc>
-    <lastmod>2026-09-02T20:46:12.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinatsakiri.github.io/research/publications.html</loc>
-    <lastmod>2026-09-02T20:44:02.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinatsakiri.github.io/research/about.html</loc>
-    <lastmod>2026-09-02T20:46:33.193Z</lastmod>
+    <loc>https://katerinatsakiri.github.io/research/research.html</loc>
+    <lastmod>2026-09-02T20:44:26.585Z</lastmod>
   </url>
   <url>
     <loc>https://katerinatsakiri.github.io/research/leadership.html</loc>
-    <lastmod>2026-09-02T20:46:16.229Z</lastmod>
+    <lastmod>2026-09-03T20:38:21.488Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinatsakiri.github.io/research/research.html</loc>
-    <lastmod>2026-09-02T20:44:13.516Z</lastmod>
+    <loc>https://katerinatsakiri.github.io/research/about.html</loc>
+    <lastmod>2026-09-02T20:46:46.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://katerinatsakiri.github.io/research/index.html</loc>
+    <lastmod>2026-09-02T20:46:26.143Z</lastmod>
+  </url>
+  <url>
+    <loc>https://katerinatsakiri.github.io/research/publications.html</loc>
+    <lastmod>2026-09-02T20:44:11.643Z</lastmod>
   </url>
 </urlset>

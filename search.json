@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Katerina G. Tsakiri, Ph.D.",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Areas",
     "section": "",
-    "text": "STATISTICS · MACHINE LEARNING · TIME SERIES · BUSINESS ANALYTICS\n    \n    \n      Computational statistician and data scientist developing\n      machine learning and AI methods for the physical sciences:\n      time series decomposition, signal extraction from high-noise data, and\n      hybrid statistical and machine learning forecasting models, applied to\n      atmospheric science, hydrology, volcanology, and climate-related hazards.\n    \n    \n      Associate Professor of Management Science and Chair, Department of\n      Information & Operations, Norm Brodsky College of Business,\n      Rider University · Founding Director, Risk Management\n      and Insurance Certificate Program.\n    \n    \n      Browse publications\n      Explore research areas"
+    "text": "My research develops statistical and machine learning methods for the physical sciences. The methods come first: time series decomposition, signal extraction from high-noise data, and hybrid statistical and machine learning forecasting. Air quality, floods, groundwater, volcanoes, and climate-related hazards are the applications, and recent work brings the same methods into business analytics education. Publications often belong to several areas, and every count below links to the filtered publication list.\n\nLoading research areas…"
   },
   {
-    "objectID": "index.html#leadership-at-rider",
-    "href": "index.html#leadership-at-rider",
-    "title": "Katerina G. Tsakiri, Ph.D.",
-    "section": "Leadership at Rider",
-    "text": "Leadership at Rider\n\n\n\n  Department Chair\n  Academic and administrative leadership of a multidisciplinary unit\n  spanning Business Analytics, Information Technology Management, and Supply\n  Chain Management: curriculum revision, faculty recruitment and mentoring,\n  accreditation, and student success initiatives.\n  Leadership & service →\n\n\n\n\n  Founding Director, Risk Management & Insurance Certificate\n  Designed, launched, and grew the Risk Management and Insurance\n  Certificate Program, chairing its industry advisory council and connecting\n  students with practitioners through events, internships, and workshops.\n  Her role →\n  The program at Rider →"
-  },
-  {
-    "objectID": "index.html#book",
-    "href": "index.html#book",
-    "title": "Katerina G. Tsakiri, Ph.D.",
-    "section": "Book",
-    "text": "Book\n\n  \n    \n      \n        \n    \n    \n      R for Earth and Sustainability Data Analytics (2026)\n      A practical introduction to GIS, time series, modeling, and\n      environmental applications, co-authored with Dr. Antonios E. Marsellos.\n      Readers learn to analyze real Earth and environmental data in R with no\n      prior coding or statistics experience required.\n      \n        Get it on Amazon\n        Book website →"
-  },
-  {
-    "objectID": "index.html#latest-peer-reviewed-work",
-    "href": "index.html#latest-peer-reviewed-work",
-    "title": "Katerina G. Tsakiri, Ph.D.",
-    "section": "Latest peer-reviewed work",
-    "text": "Latest peer-reviewed work\nLoading…\nAll publications →"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "leadership.html",
+    "href": "leadership.html",
+    "title": "Leadership & Service",
     "section": "",
-    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings, conference presentations, and the 2026 book. Journal articles link to their DOI or publisher page; most conference items are listed as citations only, because their venues no longer host the abstracts online. Search the list by author, title, or venue, and filter it by type, research area, or year.\nEach study is counted once. Work that was published as a conference proceedings paper and also delivered as a talk appears here as a single entry, under the proceedings heading.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
+    "text": "Dr. Tsakiri chairs the Department of Information & Operations at the Norm Brodsky College of Business, Rider University, and is the founding director of its Risk Management and Insurance Certificate Program. This page gives the shape of that work rather than the full record; a full record is available on request."
+  },
+  {
+    "objectID": "leadership.html#department-leadership",
+    "href": "leadership.html#department-leadership",
+    "title": "Leadership & Service",
+    "section": "Department leadership",
+    "text": "Department leadership\nAs chair of a multidisciplinary department spanning Business Analytics, Information Technology Management, and Supply Chain Management, she is responsible for academic planning, faculty recruitment, mentoring and evaluation, teaching assignments and scheduling, the departmental budget, and the department’s part in the college’s accreditation by the Association to Advance Collegiate Schools of Business (AACSB)."
+  },
+  {
+    "objectID": "leadership.html#curriculum-and-program-development",
+    "href": "leadership.html#curriculum-and-program-development",
+    "title": "Leadership & Service",
+    "section": "Curriculum and program development",
+    "text": "Curriculum and program development\nShe has led revisions of the undergraduate analytics and information technology curricula, designed new courses, and built experiential learning into the programs through practicum courses, internships, cooperative education, and industry-sponsored projects. She has also developed interdisciplinary certificate programs for undergraduate and graduate students."
+  },
+  {
+    "objectID": "leadership.html#program-and-certificate-leadership",
+    "href": "leadership.html#program-and-certificate-leadership",
+    "title": "Leadership & Service",
+    "section": "Program and certificate leadership",
+    "text": "Program and certificate leadership\nAs founding director of the Risk Management and Insurance Certificate Program, she designed its curriculum, launched the program, chairs its industry advisory council, recruits and supports the faculty who teach in it, and organizes the events that connect students with practitioners. The certificate is open to Rider undergraduates in any major."
+  },
+  {
+    "objectID": "leadership.html#students-and-mentorship",
+    "href": "leadership.html#students-and-mentorship",
+    "title": "Leadership & Service",
+    "section": "Students and mentorship",
+    "text": "Students and mentorship\nHer work with students includes retention and career-readiness initiatives, co-organizing the college’s annual DataFest competition with industry sponsors, and networking events that bring analytics faculty and students together. She has supervised doctoral and master’s research in the United States, the United Kingdom, and Greece, guided undergraduate research projects in insurance modeling, financial time series, health data, and air quality, and designed and co-directed a conference theme on natural hazards prediction for a sectional meeting of the Geological Society of America."
+  },
+  {
+    "objectID": "leadership.html#committee-service",
+    "href": "leadership.html#committee-service",
+    "title": "Leadership & Service",
+    "section": "Committee service",
+    "text": "Committee service\nAt Rider she serves on curriculum and assessment committees and has served on faculty search committees and a first-year experience task force. Earlier in her career she was course leader for a master’s program in data analytics and led a statistics group at a university in the United Kingdom, coordinated a cooperation agreement between universities in the United Kingdom and Greece, and served on a program review committee in the United States."
+  },
+  {
+    "objectID": "leadership.html#teaching",
+    "href": "leadership.html#teaching",
+    "title": "Leadership & Service",
+    "section": "Teaching",
+    "text": "Teaching\nTwo decades of statistics and analytics teaching, from introductory statistics to graduate courses in machine learning and business analytics with AI, in business, mathematics, and engineering departments in the United States and the United Kingdom. The course list is on the About page."
   },
   {
     "objectID": "about.html",
@@ -98,66 +119,38 @@
     "text": "Contact\n\nE-mail: ktsakiri@rider.edu\nOffice: Sweigart Hall, Rider University, Lawrenceville, NJ\nRider directory: rider.edu faculty profile\nLinkedIn: linkedin.com/in/katerina-tsakiri-5862033b"
   },
   {
-    "objectID": "leadership.html",
-    "href": "leadership.html",
-    "title": "Leadership & Service",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Katerina G. Tsakiri, Ph.D.",
     "section": "",
-    "text": "Since Fall 2021, Chair of the Department of Information & Operations (formerly Information Systems, Analytics & Supply Chain Management) at the Norm Brodsky College of Business, Rider University, providing academic and administrative leadership for a multidisciplinary unit spanning Business Analytics, Information Technology Management, and Supply Chain Management.\n\nLead unit-level academic planning aligned with enrollment trends, workforce needs, and institutional priorities\nOversee faculty workload distribution, instructional coverage, and course scheduling\nRecruit, hire, mentor, and evaluate tenure-track and adjunct faculty; manage onboarding and faculty development\nOversee departmental budget planning and resource allocation\nContribute to AACSB accreditation through assessment planning, curriculum mapping, and continuous improvement"
+    "text": "STATISTICS · MACHINE LEARNING · TIME SERIES · BUSINESS ANALYTICS\n    \n    \n      Computational statistician and data scientist developing\n      machine learning and AI methods for the physical sciences:\n      time series decomposition, signal extraction from high-noise data, and\n      hybrid statistical and machine learning forecasting models, applied to\n      atmospheric science, hydrology, volcanology, and climate-related hazards.\n    \n    \n      Associate Professor of Management Science and Chair, Department of\n      Information & Operations, Norm Brodsky College of Business,\n      Rider University · Founding Director, Risk Management\n      and Insurance Certificate Program.\n    \n    \n      Browse publications\n      Explore research areas"
   },
   {
-    "objectID": "leadership.html#department-chair",
-    "href": "leadership.html#department-chair",
-    "title": "Leadership & Service",
+    "objectID": "index.html#leadership-at-rider",
+    "href": "index.html#leadership-at-rider",
+    "title": "Katerina G. Tsakiri, Ph.D.",
+    "section": "Leadership at Rider",
+    "text": "Leadership at Rider\n\n\n\n  Department Chair\n  Academic and administrative leadership of a multidisciplinary unit\n  spanning Business Analytics, Information Technology Management, and Supply\n  Chain Management: curriculum revision, faculty recruitment and mentoring,\n  accreditation, and student success initiatives.\n  Leadership & service →\n\n\n\n\n  Founding Director, Risk Management & Insurance Certificate\n  Designed, launched, and grew the Risk Management and Insurance\n  Certificate Program, chairing its industry advisory council and connecting\n  students with practitioners through events, internships, and workshops.\n  Her role →\n  The program at Rider →"
+  },
+  {
+    "objectID": "index.html#book",
+    "href": "index.html#book",
+    "title": "Katerina G. Tsakiri, Ph.D.",
+    "section": "Book",
+    "text": "Book\n\n  \n    \n      \n        \n    \n    \n      R for Earth and Sustainability Data Analytics (2026)\n      A practical introduction to GIS, time series, modeling, and\n      environmental applications, co-authored with Dr. Antonios E. Marsellos.\n      Readers learn to analyze real Earth and environmental data in R with no\n      prior coding or statistics experience required.\n      \n        Get it on Amazon\n        Book website →"
+  },
+  {
+    "objectID": "index.html#latest-peer-reviewed-work",
+    "href": "index.html#latest-peer-reviewed-work",
+    "title": "Katerina G. Tsakiri, Ph.D.",
+    "section": "Latest peer-reviewed work",
+    "text": "Latest peer-reviewed work\nLoading…\nAll publications →"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Since Fall 2021, Chair of the Department of Information & Operations (formerly Information Systems, Analytics & Supply Chain Management) at the Norm Brodsky College of Business, Rider University, providing academic and administrative leadership for a multidisciplinary unit spanning Business Analytics, Information Technology Management, and Supply Chain Management.\n\nLead unit-level academic planning aligned with enrollment trends, workforce needs, and institutional priorities\nOversee faculty workload distribution, instructional coverage, and course scheduling\nRecruit, hire, mentor, and evaluate tenure-track and adjunct faculty; manage onboarding and faculty development\nOversee departmental budget planning and resource allocation\nContribute to AACSB accreditation through assessment planning, curriculum mapping, and continuous improvement"
-  },
-  {
-    "objectID": "leadership.html#curriculum-program-development",
-    "href": "leadership.html#curriculum-program-development",
-    "title": "Leadership & Service",
-    "section": "Curriculum & Program Development",
-    "text": "Curriculum & Program Development\n\nLed comprehensive revision of the undergraduate Business Analytics and Information Technology Management curricula to align with evolving workforce and industry needs\nDeveloped and launched interdisciplinary certificate and experiential learning programs for undergraduate and graduate students\nExpanded experiential learning through capstones, internships, cooperative education, and industry-sponsored projects\nDesigned new courses including the Business Data Analytics Practicum (BDA 398), the Business Data Analytics Internship (BDA 491), The Co-Operative Experience (BDA 399), and the three core courses of the Risk Management and Insurance Certificate"
-  },
-  {
-    "objectID": "leadership.html#program-and-certificate-leadership",
-    "href": "leadership.html#program-and-certificate-leadership",
-    "title": "Leadership & Service",
-    "section": "Program and Certificate Leadership",
-    "text": "Program and Certificate Leadership\nFounding Director, Risk Management and Insurance Certificate Program (Spring 2024 to present). Led the strategic design, launch, and growth of the program, aligning curriculum, faculty, and industry engagement. The certificate is open to Rider undergraduates in any major; its requirements and courses are on Rider’s program page.\n\nChair the Risk Management and Insurance Advisory Council\nDesigned and implemented the undergraduate and graduate certificate curricula, integrating applied learning and current risk management practice\nOrganize industry-focused events and workshops, including the program’s Career Night, connecting students with practitioners\nRecruit, mentor, and support faculty delivering the program’s specialized courses"
-  },
-  {
-    "objectID": "leadership.html#student-success-engagement",
-    "href": "leadership.html#student-success-engagement",
-    "title": "Leadership & Service",
-    "section": "Student Success & Engagement",
-    "text": "Student Success & Engagement\n\nLed student success initiatives focused on retention, timely degree progression, and career readiness across analytics and technology programs\nCo-organized the DataFest competition hosted by the Norm Brodsky College of Business every year since 2018, and supported student participation through external sponsorships and faculty mentorship\nOrganize Meet and Greet networking events for Business Analytics faculty and students"
-  },
-  {
-    "objectID": "leadership.html#scholarly-leadership-mentorship",
-    "href": "leadership.html#scholarly-leadership-mentorship",
-    "title": "Leadership & Service",
-    "section": "Scholarly Leadership & Mentorship",
-    "text": "Scholarly Leadership & Mentorship\n\nDesigned and co-directed the conference theme “Natural Hazards Prediction” for the Geological Society of America, Southeastern Section (SE-GSA 2019), Charleston, SC\nMain supervisor of a Ph.D. thesis on flood prediction using time series analysis (University of Brighton, 2018), and supervisor or co-supervisor of doctoral and master’s research at the National Technical University of Athens, Hofstra University, the University of Sussex, and the University of Brighton\nSupervised undergraduate research projects in insurance modeling, financial time series, mental health data, and air quality"
-  },
-  {
-    "objectID": "leadership.html#committee-service",
-    "href": "leadership.html#committee-service",
-    "title": "Leadership & Service",
-    "section": "Committee Service",
-    "text": "Committee Service\nRider University\n\nMember, Undergraduate Curriculum Committee, Norm Brodsky College of Business (2018 to present)\nMember, Undergraduate Curriculum and Assessment Committee (2018 to present)\nMember, Assurance of Learning Committee (2018–2020)\nMember, Faculty Hiring Search Committees (2018–2019; 2024–2025)\nMember, First-Year Experience Task Force (2018–2019)\n\nEarlier career\n\nCourse Leader, designed the graduate curriculum for the M.Sc. in Data Analytics, University of Brighton, UK (2014–2015)\nGroup Leader, Statistics Group, University of Brighton, UK (2014–2015)\nCoordinated a cooperation agreement between the University of Brighton, UK and the University of Athens, Greece (2014–2015)\nMember, Program Review Committee, undergraduate Mathematics program, Nova Southeastern University, FL (2011–2013)"
-  },
-  {
-    "objectID": "leadership.html#teaching",
-    "href": "leadership.html#teaching",
-    "title": "Leadership & Service",
-    "section": "Teaching",
-    "text": "Teaching\nTwo decades of statistics and analytics teaching, from elementary statistics to graduate machine learning: most recently the Business Analytics Practicum (AI and machine learning in RStudio), Introduction to Business Analytics, Business Statistics, and the graduate Introduction to Business Analytics using AI at Rider University; earlier, time series, forecasting, multivariate analysis, and medical statistics at the University of Brighton, Nova Southeastern University, and the University at Albany. The full course list, with dates, is on the About page."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Areas",
-    "section": "",
-    "text": "My research develops statistical and machine learning methods for the physical sciences. The methods come first: time series decomposition, signal extraction from high-noise data, and hybrid statistical and machine learning forecasting. Air quality, floods, groundwater, volcanoes, and climate-related hazards are the applications, and recent work brings the same methods into business analytics education. Publications often belong to several areas, and every count below links to the filtered publication list.\n\nLoading research areas…"
+    "text": "A complete, searchable record of peer-reviewed journal articles, conference proceedings, conference presentations, and the 2026 book. Journal articles link to their DOI or publisher page; most conference items are listed as citations only, because their venues no longer host the abstracts online. Search the list by author, title, or venue, and filter it by type, research area, or year.\nEach study is counted once. Work that was published as a conference proceedings paper and also delivered as a talk appears here as a single entry, under the proceedings heading.\n\n\n\n\n\n  \n    Type\n    \n  \n  \n    \n      Research area\n      \n    \n    \n      Year\n      \n    \n    \n      \n    \n  \n  \n    \n    Reset filters\n  \n\n\nLoading publications…"
   }
 ]
